@@ -15,13 +15,13 @@ running on nginx.
 - The following tasks can be performed manually or by running the scripts
   included with this repo.
 
-- [Optional] to run the scripts, you need to make them executable first
+- To run the scripts, you need to make them executable first
 ```
 $ cd <project_folder>/docker-staticsite-nginx
 $ chmod +x *.sh
 ```
 
-- To do it manually, copy the command inside the script file
+- [Optional] To do it manually, copy the command inside the script file
 
 ## Develop
 
